@@ -1,5 +1,5 @@
 Hi! I’m mcmaier, an electronics & embedded engineer.
-For more information about me and/or some project ideas, visit my website www.mcmaier.net 
+For more information about me and some projects, visit my website [mcmaier.net](https://mcmaier.net) 
 
 <!---
 mcmaier/mcmaier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
